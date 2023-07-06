@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StacktraceSettings">
+    <option name="folders">
+      <set>
+        <option value="$PROJECT_DIR$/app/src/main/java" />
+        <option value="$PROJECT_DIR$/app/src/main/kotlin" />
+        <option value="$PROJECT_DIR$/app/src/main/res" />
+        <option value="$PROJECT_DIR$/../build/app/generated/ap_generated_sources/debug/out" />
+        <option value="$PROJECT_DIR$/../build/app/generated/res/google-services/debug" />
+        <option value="$PROJECT_DIR$/../build/app/generated/res/resValues/debug" />
+        <option value="$PROJECT_DIR$/../build/app/generated/source/buildConfig/debug" />
+      </set>
+    </option>
+    <option name="packages">
+      <set>
+        <option value="com.boxfood.newuser" />
+        <option value="io.flutter.plugins" />
+      </set>
+    </option>
+  </component>
+</project>

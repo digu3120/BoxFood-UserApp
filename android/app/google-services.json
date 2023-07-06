@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176535342584",
+    "firebase_url": "https://my-project-42731-default-rtdb.firebaseio.com",
+    "project_id": "my-project-42731",
+    "storage_bucket": "my-project-42731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176535342584:android:4ecf06651ae5df2b301a0d",
+        "android_client_info": {
+          "package_name": "com.boxfood.newuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176535342584-nq46qotsgopbd77ptf9fhapk1bcunu0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.boxfood.newuser",
+            "certificate_hash": "46200456cc436a2e5a3d03c5ad0e489e8c2f4a69"
+          }
+        },
+        {
+          "client_id": "176535342584-l5vm4npn5h9cig4dt9ejk1ab439n2adm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-em1ncWJw6bipNtwFXAaZpvQ3cDqv3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176535342584-jkhh1eqjtpbjh76i8aq2p0v88l1ioc2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
